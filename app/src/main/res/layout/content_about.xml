@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/content_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.developer.gavinejoyce.icubeofficial.About"
+    tools:showIn="@layout/activity_about"
+    android:background="#0097A7">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="10dp"
+        android:padding="16sp"
+        android:text="Developer Details"
+        android:textColor="#ffffff"
+        android:fontFamily="serif-monospace"
+        android:textSize="20sp"
+        android:background="#222c37"
+        android:id="@+id/devtitle"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gavine Joyce"
+        android:layout_below="@id/devtitle"
+        android:layout_margin="20dp"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:id="@+id/devname"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/devname"
+        android:text="Coordinator, Development team SCANIT"
+        android:layout_marginLeft="20dp"
+        android:textSize="18sp"
+        android:id="@+id/designation"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/designation"
+        android:text="III year B.Tech IT"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:id="@+id/year"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/year"
+        android:text="SASTRA UNIVERSITY"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:id="@+id/devcoll"/>
+
+</RelativeLayout>

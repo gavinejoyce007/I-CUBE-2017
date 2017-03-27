@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homealone"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/events"
+            android:title="@string/events" />
+        <item
+            android:id="@+id/nav_leaderboard"
+            android:icon="@drawable/liveup"
+            android:title="@string/lupdates" />
+
+        <item
+            android:id="@+id/nav_tally"
+            android:icon="@drawable/tally"
+            android:title="@string/tally" />
+
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/sched"
+            android:title="@string/title_schedule" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/contact"
+            android:title="@string/contact" />
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="@string/about" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_feedback"
+                android:icon="@drawable/feedback"
+                android:title="Feedback" />
+
+        </menu>
+    </item>
+
+</menu>

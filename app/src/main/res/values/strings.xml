@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">I-CUBE 2017</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">About</string>
+    <string name="title_activity_events">Events</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_sign_in">SignIn</string>
+    <string name="title_activity_event_tabs">Events</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_leader_board">LeaderBoard</string>
+    <string name="title_activity_leaderboard_tabs">Live Updates</string>
+
+    <string name="tevent1">APP FESTE</string>
+    <string name="tevent2">BRAIN BOGGLERS</string>
+    <string name="tevent3">import java.io.*;</string>
+    <string name="tevent4">TIDE - Tickle your code</string>
+    <string name="tevent5">WEB WIZARDS</string>
+    <string name="tevent6">MEND YOUR MIND</string>
+
+    <string name="fevent1">THE QUIZINE</string>
+    <string name="fevent2">CRIMINAL MINDS</string>
+    <string name="fevent3">ICEFROG DOTO</string>
+    <string name="fevent4">GAME OF MEMES</string>
+    <string name="fevent5">ENIGMA</string>
+    <string name="fevent6">MINI MONSTERS</string>
+    <string name="fevent7">TYPOMANIA</string>
+    <string name="fevent8">MR AND MISS ICUBE</string>
+    <string name="fevent9">LEAGUE OF LOGOS</string>
+    <string name="fevent10">DA VINCI CODE</string>
+
+    <string name="lrank">C.No:</string>
+    <string name="lname">Name:</string>
+    <string name="lpoints">Points:</string>
+    <string name="lnresult">No Result</string>
+
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="lupdates">Live Updates</string>
+    <string name="tally">Tally Board</string>
+    <string name="contact">Contact</string>
+    <string name="about">About</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_tally__board">Tally_Board</string>
+    <string name="title_activity_tally__bally">Tally Board</string>
+
+
+    <string name="registration">Registration</string>
+    <string name="eventnam">Event Name</string>
+    <string name="Cname">Contestant Name</string>
+    <string name="Regno">Register Number</string>
+    <string name="Email">Email ID</string>
+    <string name="Contact">Contact Number</string>
+    <string name="btnreg">Register</string>
+    <string name="schedule">ICUBE Schedule</string>
+    <string name="title_schedule">Schedule</string>
+
+</resources>
